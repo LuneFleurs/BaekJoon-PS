@@ -1,4 +1,4 @@
 # Algorithm Study
-Pincom tutoring using BeakJoon
+Algorithm tutoring using BeakJoon
 
 2021 pincom java study
